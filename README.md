@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**patrykgiertych/patrykgiertych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 👈🏻
+My name is Patryk Giertych, I am a fourth year student of Management and Production Engineering at Poznań University of Technology
 
-Here are some ideas to get you started:
+## Technologies and tools  🖥️⌨️
+![](https://img.shields.io/badge/LANGUAGE-JAVA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/LANGUAGE-PYTHON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/LANGUAGE-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/LANGUAGE-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/LANGUAGE-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/FRAMEWORK-SPRING_BOOT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/VCS-GIT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+## What am I learning now?
+
+Right now, I'm focused on learning Spring Boot, building RESTful services that use API and templates to communicate with users.
