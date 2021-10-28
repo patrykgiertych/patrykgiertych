@@ -26,6 +26,8 @@ My goal is to learn new technologies and improve as a software engineer.
 
 ![](https://img.shields.io/badge/VCS-GIT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/OS-LINUX (UBUNTU)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ## Currently focused on
 
 ![](https://img.shields.io/badge/FRAMEWORK-SPRING_BOOT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
