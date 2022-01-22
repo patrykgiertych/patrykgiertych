@@ -32,9 +32,8 @@ My goal is to learn new technologies and improve as a software engineer.
 
 ![](https://img.shields.io/badge/FRAMEWORK-SPRING_BOOT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/LANGUAGE-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FRAMEWORK-ANGULAR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/LANGUAGE-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
